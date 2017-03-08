@@ -1,5 +1,5 @@
 Git is a helpful version control system
 Git is free software inuse GPL for us 
 Git is difficult of files 
-Git tracks
+Git tracks changes
 Creating a new branch is quick
